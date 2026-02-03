@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-6366F1?style=for-the-badge&logoColor=white)](https://skluqmansajid.github.io/mywebsite)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luqmansajid)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-6366F1?style=for-the-badge&logoColor=white)](https://www.luqmansajid.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqmansajid)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skluqmansajid)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikluqmansajid@gmail.com)
 
@@ -212,12 +212,16 @@ npm run dev
   <img src="https://img.shields.io/badge/Gmail-shaikluqmansajid@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/luqmansajid">
+<a href="https://www.linkedin.com/in/luqmansajid">
   <img src="https://img.shields.io/badge/LinkedIn-Luqman_Sajid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/skluqmansajid">
   <img src="https://img.shields.io/badge/GitHub-skluqmansajid-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.luqmansajid.site">
+  <img src="https://img.shields.io/badge/Portfolio-luqmansajid.site-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
